@@ -1,14 +1,7 @@
-# React Weather App - 
-
-<p align="center">
-    <img width="220"  src="src/assets/images/logo.png">
-</p>
-
-![Screenshot](src/assets/images/localhost_3000_.png)
 
 
-### Demo - Deployed over Github Pages 
-https://airawaree.web.app/
+
+
 
 
 ### APIs Used
